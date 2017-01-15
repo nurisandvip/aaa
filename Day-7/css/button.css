@@ -1,0 +1,26 @@
+.button_box{
+    height: 250px;
+    width: 150px;
+    background-color:red;
+    margin: 100px 100px;
+    transform: 
+    float: left;
+        
+}
+
+
+.button_box_r{
+    height: 250px;
+    width: 250px;
+    background-color:black;
+    margin: 100px 0px;
+    
+}
+
+.button_box_l{
+    height: 500px;
+    width: 250px;
+    background-color:pink;
+    margin: 100px
+    
+}

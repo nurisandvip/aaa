@@ -1,0 +1,47 @@
+body{
+    height: 1000px;
+    background-color: aqua;
+}
+.relative{
+    height: 500px;
+    width:500px;
+    background-color: black;
+    position: relative;
+    margin: 300px auto 300px;
+}
+.ab1{
+    height: 200px;
+    width:200px;
+    background-color: blue;
+    position: absolute;
+    top:-100px;
+        left:-30px;
+    
+}
+.ab2{
+    height: 200px;
+    width:200px;
+    background-color: blue;
+    position: absolute;
+    top:-100px;
+        right:-30px;
+    
+}
+.ab3{
+    height: 200px;
+    width:200px;
+    background-color: blue;
+    position: absolute;
+    bottom:-100px;
+        right:-30px;
+    
+}
+.ab4{
+    height: 200px;
+    width:200px;
+    background-color: blue;
+    position: absolute;
+    bottom:-100px;
+        left:-30px;
+    
+}

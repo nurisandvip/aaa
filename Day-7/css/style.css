@@ -1,0 +1,75 @@
+.box_one{
+    height: 500px;
+    width:800px;
+    background-color: deepskyblue;
+    margin:100px 0px 100px 100px;
+}
+.box_one .box_two{
+ height: 300px;
+     width:600px;
+    background-color: aqua;
+    margin: 100px 100px 100px;
+        float:left;
+}
+.padding_one{
+/*
+    height:200px;
+    width:200px;
+*/
+    float:left;
+    background-color: pink;
+    margin: 0px 0px 100px 200px;
+    padding:100px;
+}
+.tranction{ 
+    height: 200px;
+    width:50px;
+    margin:95px;
+    float:left;
+    background-color:aqua;
+    transform:skew(-30deg);
+    
+}
+.tranction_two{
+    height: 200px;
+    width:50px;
+    margin:95px 15px;
+    float:left;
+    background-color: deepskyblue;
+    transform:skew(30deg);
+    
+}
+.tranction_three{
+    height: 30px;
+    width:150px;
+    margin:150px 0px 50px -200px;
+    float:left;
+    background-color:darkcyan;
+}
+.semi_round{
+    height:100px;
+    width:100px;
+    border:5px solid #ff0000;
+    float: left;
+    margin: 250px 15px 50px 200px;
+    border-radius: 0px 50px 50px 0px;
+}
+
+
+.semi_round_two{
+    height:100px;
+    width:100px;
+    border:5px solid #ff0000;
+    float: left;
+    margin: 353px 15px 50px -125px;
+    border-radius: 0px 50px 50px 0px;
+}
+.semi_round_c{
+    height:150px;
+    width:100px;
+    border:5px solid #ff0000;
+    float: left;
+    border-right:none; 
+    margin: 353px 15px 50px 125px;
+    border-radius: 50px 0px 0px 50px;
+}
